@@ -203,7 +203,7 @@ except:
           fg="gold").pack()
 
 Label(top,
-      text="911 planning",
+      text="Login Page",
       font=('Arial',22,'bold'),
       bg="white").pack()
 
