@@ -4,7 +4,7 @@ from tkinter import ttk
 from PIL import Image, ImageTk
 
 root = Tk()
-root.title("911 System")
+root.title("System")
 root.geometry("900x650")
 root.configure(bg="#0B1120")
 root.resizable(False,False)
